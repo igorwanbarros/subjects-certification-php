@@ -1,0 +1,13 @@
+/vendor/
+composer.lock
+
+/.idea/.name
+/.idea/scopes
+/.idea/vcs.xml
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/encodings.xml
+/.idea/dictionaries
+/.idea/subjects-certification-php.iml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/inspectionProfiles/profiles_settings.xml
